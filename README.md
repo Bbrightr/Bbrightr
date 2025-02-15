@@ -1,7 +1,12 @@
 <html>
 
   <body>
+<h1>Hey there👋! Welcome to My GitHub!</h1>
+<h2>I'm Qwesi OG</h2>
 
+<p>A UX Engineer, which simply means I design and build intuitive, user-centric products from ground up</p>
+
+<p>These are my tools</p>    
 <div>
 <img src= "https://camo.githubusercontent.com/d6efe8554e9d9e98ef68344b794a8aa5632e18c44e4b57cea490ac2ce0ba9471/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c2d4533344632362e7376673f6c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465">
   
