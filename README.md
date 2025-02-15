@@ -2,9 +2,9 @@
 
   <body>
 <h1>Hey there👋! Welcome to My GitHub!</h1>
-<h2>I'm Qwesi OG</h2>
+<h2>I'm Qwesi OG, the UX Engineer</h2>
 
-<p>A UX Engineer, which simply means I design and build intuitive, user-centric products from ground up</p>
+<p>Yes! I am a UX Engineer, which simply means I design and build intuitive, user-centric products from idea to deployment</p>
 
 <p>These are my tools</p>    
 <div>
