@@ -4,7 +4,7 @@
 <h1>Hey there👋! Welcome to My GitHub!</h1>
 <h2>I'm Qwesi OG, a UX Engineer</h2>
 
-<p>Yes! I am a UX Engineer, which simply means I design and build intuitive, user-centric products from idea to deployment</p>
+<p>I am a UX Engineer, Designing and building intuitive, user-centric products from idea to deployment</p>
 
 <p>These are my tools</p>    
 <div>
@@ -41,25 +41,25 @@
 </div>
 
 <div>
-  <img src ="https://preview.redd.it/ltaamj7chh0d1.png?width=1080&crop=smart&auto=webp&s=57232534a6bd33ab5bcbec721198fd7e58ed28b4" style="height:30px;">
+  <img src ="https://preview.redd.it/ltaamj7chh0d1.png?width=1080&crop=smart&auto=webp&s=57232534a6bd33ab5bcbec721198fd7e58ed28b4" style="height:42px;">
 </div>
 
 <div>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7SKZi_KDZOAgifJ-p-VLNiYSlyxbIS4rA_PLrVCgat7dLJkg5HuZ5ZYSzjHrOFtmfx1I&usqp=CAU" style="height:30px;">
-  <img src="https://static-00.iconduck.com/assets.00/figma-icon-2048x2048-ule4368e.png" style="height:30px;">
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/2101px-Adobe_Illustrator_CC_icon.svg.png" style="height:30px;">
-  <img src="https://it.fdu.edu/wp-content/uploads/2020/10/Adobe-XD-Header.png" style="height:30px;">
- <img src="https://findlogovector.com/wp-content/uploads/2018/11/invision-logo-vector.png" style="height:30px;">
- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLbo8AnCTRZGojQTaBhsmHYvM5YAD91i23HQ&s" style="height:30px;">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7SKZi_KDZOAgifJ-p-VLNiYSlyxbIS4rA_PLrVCgat7dLJkg5HuZ5ZYSzjHrOFtmfx1I&usqp=CAU" style="height:22px;">
+  <img src="https://static-00.iconduck.com/assets.00/figma-icon-2048x2048-ule4368e.png" style="height:22px;">
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/2101px-Adobe_Illustrator_CC_icon.svg.png" style="height:22px;">
+  <img src="https://it.fdu.edu/wp-content/uploads/2020/10/Adobe-XD-Header.png" style="height:22px;">
+ <img src="https://findlogovector.com/wp-content/uploads/2018/11/invision-logo-vector.png" style="height:22px;">
+ <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLbo8AnCTRZGojQTaBhsmHYvM5YAD91i23HQ&s" style="height:22px;">
   
 </div>
 
 <section>
-  <img src="https://mediaresource.sfo2.digitaloceanspaces.com/wp-content/uploads/2024/09/15044103/Notion-Logo-White.png" style="height:30px;">
-  <img src="https://it.wustl.edu/app/uploads/2023/04/Confluence-Card-header.png" style="height:30px;" >
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1E2AeP5EsC46fz-CWeGJJsCTveezaIESIkw&s" style="height:30px;" ">
-  <img src="https://content-media.pamedia.io/press-release/picture/2024/07/01/01J1Q3BYZTV93ETKQ2QBVFEBDH.jpg" style="height:30px;" >
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxuoBreqEgrtKhsmvVIxP4Ajz-DPLMhLFPR3YkzpIQR7tRO7aOMkyrJsZJpvJae0u-WVw&usqp=CAU" style="height:30px;" >
+  <img src="https://mediaresource.sfo2.digitaloceanspaces.com/wp-content/uploads/2024/09/15044103/Notion-Logo-White.png" style="height:22px;">
+  <img src="https://it.wustl.edu/app/uploads/2023/04/Confluence-Card-header.png" style="height:22px;">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1E2AeP5EsC46fz-CWeGJJsCTveezaIESIkw&s" style="height:22px;">
+  <img src="https://content-media.pamedia.io/press-release/picture/2024/07/01/01J1Q3BYZTV93ETKQ2QBVFEBDH.jpg" style="height:22px;">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxuoBreqEgrtKhsmvVIxP4Ajz-DPLMhLFPR3YkzpIQR7tRO7aOMkyrJsZJpvJae0u-WVw&usqp=CAU" style="height:22px;">
 </section>
 
 </body>
